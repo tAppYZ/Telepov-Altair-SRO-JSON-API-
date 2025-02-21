@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Wv2RGos6NlonfqsVfbtGei17kvmxhFy3eMTkWEpbz10=",
+  "Source": "sro json app",
+  "BasePath": "_content/sro json app",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

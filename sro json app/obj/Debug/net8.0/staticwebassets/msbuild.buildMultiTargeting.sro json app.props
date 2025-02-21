@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\sro json app.props" />
+</Project>

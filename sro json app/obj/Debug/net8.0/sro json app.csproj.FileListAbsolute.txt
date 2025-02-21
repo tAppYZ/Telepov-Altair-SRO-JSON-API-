@@ -1,0 +1,37 @@
+C:\Users\altik\source\repos\sro json app\sro json app\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\altik\source\repos\sro json app\sro json app\bin\Debug\net8.0\appsettings.json
+C:\Users\altik\source\repos\sro json app\sro json app\bin\Debug\net8.0\sro json app.staticwebassets.endpoints.json
+C:\Users\altik\source\repos\sro json app\sro json app\bin\Debug\net8.0\sro json app.exe
+C:\Users\altik\source\repos\sro json app\sro json app\bin\Debug\net8.0\sro json app.deps.json
+C:\Users\altik\source\repos\sro json app\sro json app\bin\Debug\net8.0\sro json app.runtimeconfig.json
+C:\Users\altik\source\repos\sro json app\sro json app\bin\Debug\net8.0\sro json app.dll
+C:\Users\altik\source\repos\sro json app\sro json app\bin\Debug\net8.0\sro json app.pdb
+C:\Users\altik\source\repos\sro json app\sro json app\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\altik\source\repos\sro json app\sro json app\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\altik\source\repos\sro json app\sro json app\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\altik\source\repos\sro json app\sro json app\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\altik\source\repos\sro json app\sro json app\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\altik\source\repos\sro json app\sro json app\obj\Debug\net8.0\sro json app.csproj.AssemblyReference.cache
+C:\Users\altik\source\repos\sro json app\sro json app\obj\Debug\net8.0\sro json app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\altik\source\repos\sro json app\sro json app\obj\Debug\net8.0\sro json app.AssemblyInfoInputs.cache
+C:\Users\altik\source\repos\sro json app\sro json app\obj\Debug\net8.0\sro json app.AssemblyInfo.cs
+C:\Users\altik\source\repos\sro json app\sro json app\obj\Debug\net8.0\sro json app.csproj.CoreCompileInputs.cache
+C:\Users\altik\source\repos\sro json app\sro json app\obj\Debug\net8.0\sro json app.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\altik\source\repos\sro json app\sro json app\obj\Debug\net8.0\sro json app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\altik\source\repos\sro json app\sro json app\obj\Debug\net8.0\scopedcss\bundle\sro json app.styles.css
+C:\Users\altik\source\repos\sro json app\sro json app\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\altik\source\repos\sro json app\sro json app\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\altik\source\repos\sro json app\sro json app\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\altik\source\repos\sro json app\sro json app\obj\Debug\net8.0\staticwebassets\msbuild.sro json app.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\altik\source\repos\sro json app\sro json app\obj\Debug\net8.0\staticwebassets\msbuild.sro json app.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\altik\source\repos\sro json app\sro json app\obj\Debug\net8.0\staticwebassets\msbuild.build.sro json app.props
+C:\Users\altik\source\repos\sro json app\sro json app\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.sro json app.props
+C:\Users\altik\source\repos\sro json app\sro json app\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.sro json app.props
+C:\Users\altik\source\repos\sro json app\sro json app\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\altik\source\repos\sro json app\sro json app\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\altik\source\repos\sro json app\sro json app\obj\Debug\net8.0\sro json.8C46B1F1.Up2Date
+C:\Users\altik\source\repos\sro json app\sro json app\obj\Debug\net8.0\sro json app.dll
+C:\Users\altik\source\repos\sro json app\sro json app\obj\Debug\net8.0\refint\sro json app.dll
+C:\Users\altik\source\repos\sro json app\sro json app\obj\Debug\net8.0\sro json app.pdb
+C:\Users\altik\source\repos\sro json app\sro json app\obj\Debug\net8.0\sro json app.genruntimeconfig.cache
+C:\Users\altik\source\repos\sro json app\sro json app\obj\Debug\net8.0\ref\sro json app.dll

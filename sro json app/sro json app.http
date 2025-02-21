@@ -1,0 +1,6 @@
+@sro_json_app_HostAddress = http://localhost:5183
+
+GET {{sro_json_app_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
